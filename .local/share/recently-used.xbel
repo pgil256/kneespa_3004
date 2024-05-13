@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/pi/kneespa/scale/scale.ino" added="2022-03-12T14:14:59Z" modified="2022-04-22T17:58:09Z" visited="2022-03-12T14:14:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-arduino"/>
+        <bookmark:applications>
+          <bookmark:application name="java" exec="&apos;java %u&apos;" modified="2022-04-22T17:58:09Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pi/kneespa/i2c/i2c.ino" added="2022-04-13T10:07:48Z" modified="2022-04-22T02:22:06Z" visited="2022-04-13T10:07:48Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-arduino"/>
+        <bookmark:applications>
+          <bookmark:application name="java" exec="&apos;java %u&apos;" modified="2022-04-22T02:22:06Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pi/kneespa/motor/motor.ino" added="2022-04-22T18:00:01Z" modified="2022-04-22T18:00:01Z" visited="2022-04-22T18:00:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-arduino"/>
+        <bookmark:applications>
+          <bookmark:application name="java" exec="&apos;java %u&apos;" modified="2022-04-22T18:00:01Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

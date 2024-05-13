@@ -1,0 +1,3 @@
+logrotate state -- version 2
+"/home/pi/kneespa/01-23-2022.csv" 2022-1-23-10:39:23
+"/home/pi/kneespa/users.csv" 2022-1-23-10:39:23
